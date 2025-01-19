@@ -9,5 +9,4 @@ Easy-to-read content with CSS styling
 
 Technologies Used
 HTML for the structure of the website
-CSS for styling and layout
-JavaScript 
+CSS for styling
